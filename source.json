@@ -25,11 +25,17 @@
       "bundleIdentifier": "com.gabrieltellas.budgetapp",
       "developerName": "Gabriel",
       "localizedDescription": "Personal budget app: Nordea/Avanza/CSN, forecasting, receivables.",
-      "version": "1.0.8",
-      "versionDate": "2026-07-13T21:32:43Z",
-      "size": 267596,
+      "version": "1.0.9",
+      "versionDate": "2026-07-13T21:51:51Z",
+      "size": 267995,
       "downloadURL": "https://github.com/N4use4tic/Apps/releases/download/latest-budgetapp/Budgetapp.ipa",
       "versions": [
+        {
+          "version": "1.0.9",
+          "date": "2026-07-13T21:51:51Z",
+          "size": 267995,
+          "downloadURL": "https://github.com/N4use4tic/Apps/releases/download/latest-budgetapp/Budgetapp.ipa"
+        },
         {
           "version": "1.0.8",
           "date": "2026-07-13T21:32:43Z",
